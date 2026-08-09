@@ -168,16 +168,18 @@ Tools Used
 - GitHub
 
 
-Repository Structure
+Repository Contents
 
-ABC-communications-customer-churn-analysis/
-│
-├── README.md
-│
-├── Excel Workbook
-│
-├── Business Analytics Report
-│
-├── Business Presentation
-│
-└── Dataset Inspection Report
+The repository contains the following project deliverables:
+
+- **Excel Workbook** – Data inspection, cleaning, analysis and visualisations
+- **Business Analytics Report** – Business understanding, findings, risks, opportunities and recommendations
+- **Dataset Inspection Report** – Data quality and preparation assessment
+- **Business Presentation** – Executive presentation of the analysis and recommendations
+- **README.md** – Project overview, methodology, findings and recommendations
+  
+## Author
+
+**Nontethelelo Ivy Macebo**
+
+Accounting & Audit Professional | Aspiring Data Analyst
